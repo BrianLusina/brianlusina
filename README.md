@@ -6,7 +6,7 @@ I am experimenting 🔭 with new technologies to build some interesting stuff :r
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [brianlusina.github.io](https://brianlusina.github.io) as well as on [Medium](https://medium.com/@lusinabrian).
+Apart from coding, I also maintain a blog - you can find my articles on my [blog](https://blog.brianlusina.com)
 
 <hr/>
 
@@ -40,7 +40,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
         <img style="margin: 10px" alt="Typescript"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/typescript/typescript.png" />
         <img style="margin: 10px" alt="React" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-        <img style="margin: 10px" alt="ReactJS" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
         <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
         <img style="margin: 10px" alt="Apollo" height="50" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />  
         <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
