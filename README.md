@@ -100,7 +100,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 <br/>
 <hr/>
 
-Connect with moi:
+Connect with me:
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brianlusina)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lusinabrian/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
