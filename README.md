@@ -91,11 +91,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 
 ## My Github Skyline(s)
 
+[2015](https://skyline.github.com/brianlusina/2015)
+[2016](https://skyline.github.com/brianlusina/2016)
 [2017](https://skyline.github.com/brianlusina/2017)
 [2018](https://skyline.github.com/brianlusina/2018)
 [2019](https://skyline.github.com/brianlusina/2019)
 [2020](https://skyline.github.com/brianlusina/2020)
 [2021](https://skyline.github.com/brianlusina/2021)
+[2022](https://skyline.github.com/brianlusina/2022)
 
 <br/>
 <hr/>
@@ -113,9 +116,9 @@ Other Places you can find my open source contributions:
 
 et cetera et cetera:
 
-- 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps, phew! :sweat_smile: 
+- 🔭  Exploring automation, websites, systems, low level APIs, apps, etc, etc :sweat_smile: 
 - 🌱  Currently learning distributed systems at large scale
 - 👯  Looking to collaborate on interesting projects that push the limits
-- 💬  Ask me about tech stuff, music, money, life, sports
+- 💬  Ask me about tech stuff, music, money, life, sports, the universe.
 - 📫  How to reach me: Preferrably on LinkedIn or via my email, if thee can find it :smile:
 - ⚡  Fun fact: ​I​ ​pla​y​ ​t​he​ :guitar: on my spare time, :soccer:, 🎮 & enjoy the outdoors 🌴
