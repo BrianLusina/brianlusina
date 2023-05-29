@@ -62,20 +62,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 </table>  
 
 <br/>
-<hr/>
 
-## &#x1f4c8; My GitHub Stats
-
-<!-- ![](https://komarev.com/ghpvc/?username=brianlusina) -->
-
-<a href="https://github.com/BrianLusina/brianlusina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianLusina&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/BrianLusina/brianlusina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianLusina&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lusina's GitHub Stats" />
-</a>
-
-<br/>
 <hr/>
 
 ## My Github Skyline(s)
