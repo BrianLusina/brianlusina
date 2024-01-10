@@ -75,6 +75,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 [2020](https://skyline.github.com/brianlusina/2020)
 [2021](https://skyline.github.com/brianlusina/2021)
 [2022](https://skyline.github.com/brianlusina/2022)
+[2023](https://skyline.github.com/brianlusina/2023)
+[2024](https://skyline.github.com/brianlusina/2024)
 
 <br/>
 <hr/>
