@@ -62,23 +62,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 </table>  
 
 <br/>
-
-<hr/>
-
-## My Github Skyline(s)
-
-[2015](https://skyline.github.com/brianlusina/2015)
-[2016](https://skyline.github.com/brianlusina/2016)
-[2017](https://skyline.github.com/brianlusina/2017)
-[2018](https://skyline.github.com/brianlusina/2018)
-[2019](https://skyline.github.com/brianlusina/2019)
-[2020](https://skyline.github.com/brianlusina/2020)
-[2021](https://skyline.github.com/brianlusina/2021)
-[2022](https://skyline.github.com/brianlusina/2022)
-[2023](https://skyline.github.com/brianlusina/2023)
-[2024](https://skyline.github.com/brianlusina/2024)
-
-<br/>
 <hr/>
 
 Connect with moi:
