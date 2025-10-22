@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Brian%20Lusina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32%22" alt="Brian Lusina" />
 
 <!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Senior+Software+Engineer+%F0%9F%9A%80;Cloud+Engineer+☁️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Senior+Software+Engineer+%F0%9F%9A%80;Cloud+Engineer+%E2%98%81%EF%B8%8F;Open+Source+%E2%9D%A4%EF%B8%8F;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Animated divider -->
 
