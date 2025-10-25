@@ -115,6 +115,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my [blog
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://x.com/brianlusina)
 [![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1DA1F2)](https://bsky.app/profile/lusina.bsky.social)
 [![Medium](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=black&labelColor=1DA1F2)](https://medium.com/@lusinabrian)
+![Codewars](https://www.codewars.com/users/Lusina/badges/micro)
 
 Other Places you can find my open source contributions:
 
