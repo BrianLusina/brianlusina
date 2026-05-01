@@ -34,7 +34,7 @@ fields_of_interests:
 
 currently_learning: 
   - "Rust"
-  - "Advanced Kubernetes"
+  - "Advanced AI"
   - "Distributed Systems"
 ```
 
